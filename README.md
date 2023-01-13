@@ -4,9 +4,8 @@ With this great little compact and light CNC billet alloy extruder coming to mar
 This work with the Vex3D's VZ-HextrudORT extruder and Annex Engineering's AfterSherpa Mini Cowling, allowing a huge range of hot ends to be used!!
 
 Anyhow, enjoy this cheerful chap!
-<p align="center">
+
 ![HappyHextrudortAdaptorHappy](https://user-images.githubusercontent.com/105763933/212316912-352bd723-c3b3-43b7-a104-325eedeb89da.png)
 ![HappyHextrudortAdaptorProfile](https://user-images.githubusercontent.com/105763933/212316949-f4ac0153-40ab-4163-a1af-c6a441da4e98.png)
 ![HappyHextrudortAdaptorTop](https://user-images.githubusercontent.com/105763933/212316975-718f55dd-43b0-4032-bfa5-ef4b31317b7e.png)
 ![HappyHextrudortAdaptorBottom](https://user-images.githubusercontent.com/105763933/212316998-7ee88827-4b06-4e70-8986-95083651438a.png)
-</p>
