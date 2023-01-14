@@ -9,6 +9,8 @@ And now thanks to @Methos, he has kindly dropped his HextrudORT Mellow 3D Fly SH
 
 You can find @Methos and myself @MickoSE on the Voron Discord Server!
 
+https://discord.com/invite/voron
+
 Anyhow, enjoy this cheerful chap!
 
 ![HappyHextrudortAdaptorHappy](https://user-images.githubusercontent.com/105763933/212316912-352bd723-c3b3-43b7-a104-325eedeb89da.png)
