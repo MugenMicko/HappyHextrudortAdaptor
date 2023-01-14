@@ -1,9 +1,13 @@
 # HappyHextrudortAdaptor
+
 Here is the HappyHextrudort Adaptor to marry up the AfterSherpaMini Cowl with a VZ-HextrudORT!
+
 With this great little compact and light CNC billet alloy extruder coming to market, we thought it might go nicely on top of out V0.1 Toolhead AfterSherpa Mini.
 This work with the Vex3D's VZ-HextrudORT extruder and Annex Engineering's AfterSherpa Mini Cowling, allowing a huge range of hot ends to be used!!
 
 And now thanks to @Methos, he has kindly dropped his HextrudORT Mellow 3D Fly SHT36 CanBUS Board Mount to the Repo to make life easy mounting your shiny CanBUS board to the extrudor for the ultimate light weight setup!
+
+You can find @Methos and myself @MickoSE on the Voron Discord Server!
 
 Anyhow, enjoy this cheerful chap!
 
