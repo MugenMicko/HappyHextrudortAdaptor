@@ -12,6 +12,8 @@ And now thanks to @Methos, he has kindly dropped his HextrudORT Mellow 3D Fly SH
 
 You can find @Methos and myself @MickoSE on the Voron Discord Server!
 
+07/05/2023 - V2 of HappyHextrudORT Mount has now been released courtesy of @Micky#5101! He has fixed some of the little things that are quality of life when it comes to printing and design.  Big thank you to Micky!! You are a champ!!
+
 https://discord.com/invite/voron
 
 Anyhow, enjoy this cheerful chap!
